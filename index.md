@@ -1,6 +1,10 @@
 # **Edwin Estuardo Lau Mack**
 *I am currently a student in UC San Diego majoring in Computer Science. I am a senior and a transfer student from Pasadena City College. My major is Computer Science and my favorite language is C++.*
 
+*One of my hobbies is watching anime. Therefore I'll leave you guys with an anime picture of Jujutsu Kaisen*
+
+![Jujutsu Kaisen](https://themovieculture.com/wp-content/webp-express/webp-images/uploads/2021/07/JKE-1-1060x482.jpg.webp)
+
 “I do not fear computers. I fear lack of them.”
 > Isaac Asimov
 
