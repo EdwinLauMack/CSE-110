@@ -32,6 +32,7 @@ You can access the [README.md here](README.md)
 2. Organized and smart
 3. Experienced in Industry
 
+### **To Do List**
 - [x] Finish Homework
 - [ ] Explore San Diego in the weekend
 - [ ] Meet new people
