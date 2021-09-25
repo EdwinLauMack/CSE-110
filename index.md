@@ -27,6 +27,9 @@ Password: CSE135summer
 
 You can access the [README.md here](README.md)
 
+### **Section Link**
+To go back to the top of the page click [here](#edwin-estuardo-lau-mack)
+
 ### **Why hire me?**
 - Mastery in C++
 - Mastery in Python
