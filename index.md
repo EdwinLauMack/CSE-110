@@ -14,12 +14,16 @@ int myints[] = {32,71,12,45,26,80,53,33};
 std::vector<int> myvector (myints, myints+8);              
 std::sort (myvector.begin(), myvector.begin()+4);
 ```
+### **External Links**
+
 If you want to check out the website we built for CSE 135 during the summer go to [CSE135 Website](https://cse-135.site/)
 you can login using
 
 Username: grader
 
 Password: CSE135summer
+
+### **Relative Link**
 
 You can access the [README.md here](README.md)
 
